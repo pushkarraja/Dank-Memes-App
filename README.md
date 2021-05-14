@@ -3,8 +3,8 @@ Cool and Smooth Meme App that displays meme using [Meme API](https://github.com/
 </br>
 
 ## Preview :
-![Preview](https://i.redd.it/ylcxk9kpe4z61.png)
-![Preview2](https://i.redd.it/fgbydyzxe4z61.png)
+###### ![Preview](https://i.redd.it/ylcxk9kpe4z61.png)
+###### ![Preview2](https://i.redd.it/fgbydyzxe4z61.png)
 
 ## Functions :
 - Next Button allows you to get new Memes everytime it is clicked.
