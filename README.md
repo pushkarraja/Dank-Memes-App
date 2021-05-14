@@ -8,6 +8,6 @@ Cool and Smooth Meme App that displays meme using [Meme API](https://github.com/
 ## App Link :
 [Click here to Download the App](https://drive.google.com/drive/folders/1EXgykzG0XHuxnbSYzsRfFPCc7oP5Fcw1)
 
-###### Thanks :
+## Notes :
 :smile: Enjoy The Dank Memes :raised_hands:	
-Created by Pushkar Raja
+- Created by Pushkar Raja
