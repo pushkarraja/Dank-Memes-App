@@ -3,8 +3,7 @@ Cool and Smooth Meme App that displays meme using [Meme API](https://github.com/
 </br>
 
 ## Preview :
-![Preview](https://github.com/pushkarraja/Dank-Memes-App/blob/master/preview1.png)
-[Preview2](https://github.com/pushkarraja/Dank-Memes-App/blob/master/preview2.png)
+![Preview](https://github.com/pushkarraja/Dank-Memes-App/blob/master/Preview-app.png)
 
 ## Functions :
 - Next Button allows you to get new Memes everytime it is clicked.
