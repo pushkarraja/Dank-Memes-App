@@ -10,7 +10,7 @@ Cool and Smooth Meme App that displays meme using [Meme API](https://github.com/
 - Share Button allows you to share the link of the meme to different applications, or you can simply copy the link
 
 ## App Link :
-[Click here to Download the App](https://drive.google.com/drive/folders/1EXgykzG0XHuxnbSYzsRfFPCc7oP5Fcw1)
+[Click here to Download the App](https://github.com/pushkarraja/Dank-Memes-App/blob/master/Dank-Memes.apk)
 
 ## Notes :
 :smile: Enjoy The Dank Memes :raised_hands:	</br>
