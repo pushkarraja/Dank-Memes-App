@@ -1,4 +1,4 @@
-package com.example.dankmemes
+package com.pushkarraja.dankmemes
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

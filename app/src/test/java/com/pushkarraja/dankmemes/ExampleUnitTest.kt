@@ -1,4 +1,4 @@
-package com.example.dankmemes
+package com.pushkarraja.dankmemes
 
 import org.junit.Test
 
